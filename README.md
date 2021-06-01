@@ -12,11 +12,11 @@ The connection can take place locally or on a LAN network (devices connected on 
 # Installation 
 To run the program, you will open a terminal on the folder where is located Client.c,Client1.c, Server.c and Server1.c  on different devices. 
  you will then run the following commands: 
-  For the client : gcc -o Client-Server Client.c 
-                   gcc -o Client-Server Client1.c
+  For the client : gcc -o Client-Server Client.c ,
+                   gcc -o Client-Server Client1.c,
                    ./Client-Server
-  For the server : gcc -o Client-Server Server.c
-                   gcc -o Client-Server Server1.c
+  For the server : gcc -o Client-Server Server.c,
+                   gcc -o Client-Server Server1.c,
                    ./Client-Server 
 # Author 
 Odhur Neevesha Siwani 
